@@ -1,0 +1,167 @@
+* , html{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border-top-color: #28AFEA;
+	border-right-color: #28AFEA;
+	border-bottom-color: #28AFEA;
+	border-left-color: #28AFEA;
+}
+
+.nav-link{
+  font-size: 18px;
+  color: #fff;
+}
+.nav-link-green {
+  color:rgb(41,167,68);
+}
+.bg-img {
+  background-image: url("../assets/img/hawaii.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+}
+
+.margin-padding {
+  padding: 200px 160px;
+}
+
+.text-size{
+  font-size: 18px;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+.btn-outline {
+  color: white;
+  border: white 1px solid;
+}
+.btn-tickets{
+  background-color: rgb(41,167,68);
+}
+
+.right {
+  float: right;
+  height: inherit;
+}
+
+.skill {
+  font-size: 12px;
+  font-weight: 700;
+  padding: 1px 8px;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.skill:hover {
+  color: black;
+  cursor: none;
+}
+
+.javascript {
+  background-color: yellow;
+  color: black;
+}
+.javascript:hover {
+  color: white;
+}
+
+.react {
+  background-color: rgb(1, 204, 235);
+}
+.startup {
+  background-color: rgba(255, 0, 0, 0.9);
+}
+
+.bussines {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.text-small {
+  font-size: 14px;
+}
+
+.card-cont {
+  padding: 0 20%;
+  
+}
+
+.dotted-underline {
+  text-decoration: underline dotted;
+}
+
+.btn-success{
+  height: 50px;
+  background-color: rgb(150, 201, 62);
+}
+.footer{
+  margin-top: 1vh;
+  align-items: center;
+  padding: 2Vh 15vh;
+  background-color: rgba(30,81,112,255);
+}
+
+.btn-footer{
+  font-size: 16px;
+  color: white;
+  width: 140px;
+  height: 80px;
+  word-wrap: break-word;
+}
+.buenosaires-img {
+  background-image: url("../assets/img/bs_as.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+}
+
+.Estilo_Etiqueta {
+	background-color: #CCE5FF;
+	color: #004095;
+}
+
+	.Estilo_Card_1{
+
+		border-top-color: #007BFF;
+		border-right-color: #007BFF;
+		border-bottom-color: #007BFF;
+		border-left-color: #007BFF;
+	    border-radius: 1px;		
+	
+	}
+	
+	.Estilo_Card_2{
+
+		border-top-color: #17A2B8;
+		border-right-color: #17A2B8;
+		border-bottom-color: #17A2B8;
+		border-left-color: #17A2B8;
+	    border-radius: 1px;	
+			
+	}
+	
+	.Estilo_Card_3{
+
+		border-top-color: #FFC107;
+		border-right-color: #FFC107;
+		border-bottom-color: #FFC107;
+		border-left-color: #FFC107;
+	    border-radius: 1px;	
+			
+	}	
+		
+.card-cont-2 {
+  padding: 0 20%;
+  
+}		
